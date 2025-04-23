@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Modul_dua" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Background color -->
+        <item name="android:colorBackground">@color/white</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor" tools:targetApi="o">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+
+        <!-- Customize appearance -->
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="Theme.Modul_dua" parent="Base.Theme.Modul_dua" />
+</resources>
