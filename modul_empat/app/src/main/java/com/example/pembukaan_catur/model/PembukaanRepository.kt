@@ -1,4 +1,6 @@
-package com.example.pembukaan_catur
+package com.example.pembukaan_catur.model
+
+import com.example.pembukaan_catur.R
 
 class PembukaanRepository {
     fun ambilSemuaPembukaan(): List<TampilanPembukaan>{
