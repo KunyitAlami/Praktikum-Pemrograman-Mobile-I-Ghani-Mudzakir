@@ -56,6 +56,7 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.example.pembukaan_catur.model.PembukaanRepository
 import kotlin.math.round
 
 class MainActivity : ComponentActivity() {
